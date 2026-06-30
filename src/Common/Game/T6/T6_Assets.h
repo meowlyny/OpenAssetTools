@@ -3997,9 +3997,9 @@ namespace T6
         uint16_t letter;
         char x0;
         char y0;
-        char dx;
-        char pixelWidth;
-        char pixelHeight;
+        uint8_t dx;
+        uint8_t pixelWidth;
+        uint8_t pixelHeight;
         float s0;
         float t0;
         float s1;
